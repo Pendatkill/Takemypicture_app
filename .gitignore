@@ -1,0 +1,13 @@
+# Fotos y datos del evento: NUNCA se suben
+takemypicture_data/
+**/takemypicture_data/
+*.sqlite3
+config.json
+
+# Paquetes de release (se suben a Releases, no al repositorio)
+*.zip
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

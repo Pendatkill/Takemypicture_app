@@ -1,0 +1,5 @@
+*.exe binary
+*.apk binary
+*.pdf binary
+*.png binary
+*.bat text eol=crlf
